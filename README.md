@@ -1,2 +1,2 @@
 # PterodactylClient
-.Net Core class library developed for Pterodactyl API
+.Net Core class library developed for Pterodactyl API V1
